@@ -1,0 +1,81 @@
+1713029445: mosquitto version 2.0.18 starting
+1713029445: Config loaded from /mosquitto/config/mosquitto.conf.
+1713029445: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1713029445: Create a configuration file which defines a listener to allow remote access.
+1713029445: For more details see https://mosquitto.org/documentation/authentication-methods/
+1713029445: Opening ipv4 listen socket on port 1883.
+1713029445: Opening ipv6 listen socket on port 1883.
+1713029445: Error: Address not available
+1713029445: mosquitto version 2.0.18 running
+1713029683: mosquitto version 2.0.18 terminating
+1713029683: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1713029683: mosquitto version 2.0.18 starting
+1713029683: Config loaded from /mosquitto/config/mosquitto.conf.
+1713029683: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1713029683: Create a configuration file which defines a listener to allow remote access.
+1713029683: For more details see https://mosquitto.org/documentation/authentication-methods/
+1713029683: Opening ipv4 listen socket on port 1883.
+1713029683: Opening ipv6 listen socket on port 1883.
+1713029683: Error: Address not available
+1713029683: mosquitto version 2.0.18 running
+1713029743: mosquitto version 2.0.18 terminating
+1713029743: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1713029744: mosquitto version 2.0.18 starting
+1713029744: Config loaded from /mosquitto/config/mosquitto.conf.
+1713029744: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1713029744: Create a configuration file which defines a listener to allow remote access.
+1713029744: For more details see https://mosquitto.org/documentation/authentication-methods/
+1713029744: Opening ipv4 listen socket on port 1883.
+1713029744: Opening ipv6 listen socket on port 1883.
+1713029744: Error: Address not available
+1713029744: mosquitto version 2.0.18 running
+1713029943: mosquitto version 2.0.18 terminating
+1713029943: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1713029943: mosquitto version 2.0.18 starting
+1713029943: Config loaded from /mosquitto/config/mosquitto.conf.
+1713029943: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1713029943: Error opening password file "/mosquitto/config/password.txt".
+1713029943: mosquitto version 2.0.18 starting
+1713029943: Config loaded from /mosquitto/config/mosquitto.conf.
+1713029943: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1713029943: Error opening password file "/mosquitto/config/password.txt".
+1713029944: mosquitto version 2.0.18 starting
+1713029944: Config loaded from /mosquitto/config/mosquitto.conf.
+1713029944: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1713029944: Error opening password file "/mosquitto/config/password.txt".
+1713029944: mosquitto version 2.0.18 starting
+1713029944: Config loaded from /mosquitto/config/mosquitto.conf.
+1713029944: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1713029944: Error opening password file "/mosquitto/config/password.txt".
+1713029945: mosquitto version 2.0.18 starting
+1713029945: Config loaded from /mosquitto/config/mosquitto.conf.
+1713029945: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1713029945: Error opening password file "/mosquitto/config/password.txt".
+1713029947: mosquitto version 2.0.18 starting
+1713029947: Config loaded from /mosquitto/config/mosquitto.conf.
+1713029947: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1713029947: Error opening password file "/mosquitto/config/password.txt".
+1713029950: mosquitto version 2.0.18 starting
+1713029950: Config loaded from /mosquitto/config/mosquitto.conf.
+1713029950: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1713029950: Error opening password file "/mosquitto/config/password.txt".
+1713029957: mosquitto version 2.0.18 starting
+1713029957: Config loaded from /mosquitto/config/mosquitto.conf.
+1713029957: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1713029957: Error opening password file "/mosquitto/config/password.txt".
+1713029970: mosquitto version 2.0.18 starting
+1713029970: Config loaded from /mosquitto/config/mosquitto.conf.
+1713029970: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1713029970: Error opening password file "/mosquitto/config/password.txt".
+1713029995: mosquitto version 2.0.18 starting
+1713029995: Config loaded from /mosquitto/config/mosquitto.conf.
+1713029995: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1713029995: Error opening password file "/mosquitto/config/password.txt".
+1713030047: mosquitto version 2.0.18 starting
+1713030047: Config loaded from /mosquitto/config/mosquitto.conf.
+1713030047: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1713030047: Error opening password file "/mosquitto/config/password.txt".
+1713030107: mosquitto version 2.0.18 starting
+1713030107: Config loaded from /mosquitto/config/mosquitto.conf.
+1713030107: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1713030107: Error opening password file "/mosquitto/config/password.txt".
