@@ -1,5 +1,6 @@
 import { connect } from 'mqtt';
 import { config } from 'dotenv';
+import { sendMessage } from './main';
 config();
 const { MQTT_HOST, MQTT_PORT } = process.env;
 
@@ -12,6 +13,7 @@ client.on('connect', () => {
 
 client.on('message', (topic, message) => {
     console.log(`Received message on ${topic}: ${message.toString()}`);
+    sendMessage(message.toString());
 });
 
 client.on('error', (error) => {
