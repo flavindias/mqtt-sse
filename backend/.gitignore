@@ -1,0 +1,18 @@
+# ignore lock files
+*.lock
+
+# ignore node_modules
+node_modules
+
+# ignore build files
+build
+dist
+
+# ignore coverage reports
+coverage
+
+# ignore .env files
+.env
+
+# ignore .DS_Store files
+.DS_Store
