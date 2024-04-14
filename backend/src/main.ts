@@ -28,8 +28,6 @@ const eventsHandler = (req: Request, res: Response): void => {
     };
 
     res.writeHead(200, headers);
-    const data = `data: ${JSON.stringify({ message: 'Hello World!' })}\n\n`;
-    res.write(data);
     const clientId = Date.now();
     const newClient: Client = {
         id: clientId,
@@ -56,6 +54,10 @@ app.get("/clients", (req, res) => {
 });
 
 app.get("/events", eventsHandler);
+
+app.get("/status", (req, res) => {
+    return res.json({ clients: clients.length });
+});
 
 server.listen(parseInt(`${PORT}`), () => {
   console.log(`Server is running on port ${PORT}`);
